@@ -26,7 +26,6 @@ const {webkit} = require('playwright');
     await page.click('#cboAgreeTOC')
     await page.click('span:has-text("Continue to Book")')
 
-    // await page.waitForSelector(teeTimeSelector);
     await page.screenshot({path: `example.png`});
     await browser.close();
 })();
