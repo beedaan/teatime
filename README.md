@@ -1,8 +1,10 @@
 # teatime 🍵
 
+Spot of tea?
+
 ## Install
 
-Make sure you have (node.js)[https://nodejs.org] installed.
+Make sure you have [node.js](https://nodejs.org) installed.
 
 Install the local packages
 ``` 
